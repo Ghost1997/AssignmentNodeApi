@@ -3,5 +3,5 @@
 Node Assignment
 
 1. Download Project
-2. in terminal write "npm start"
-3. do all api operation
+2. In terminal write "npm start" it will run index.js file
+3. Do all api operation
